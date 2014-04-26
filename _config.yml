@@ -1,0 +1,7 @@
+name: MDG
+markdown: redcarpet
+pygments: true
+highlighter: pygments
+repository: https://github.com/victusfate/MDG
+relative_permalinks: false
+baseurl: /MDG
