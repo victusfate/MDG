@@ -43,13 +43,13 @@
 - [Need to start some serious descriptive juice](#need-to-start-some-serious-descriptive-juice)
 
 
-#M.D.G.
+# M.D.G.
 
 Modern Day Game or the Most Deadly Game you decide. A modern day adventure game
 
 Copyright 2002 Game Design: Eli Sacks, Mark Essel, Aakin Patel
 
-#Introduction
+# Introduction
 
 After chasing the suspect down a series of small alleyways he seemingly
 vanishes into mist before your very eyes. Any dreams of your private agency taking a few pictures of a lecherous husband or finding a lost dog for a couple of extra bucks was just shot to hell along with your partner. You hear sounds of scuffling boots going up the fire escape on an adjacent building, now's not the time to ponder. Reflexes take over and your .38 special is brought to bear on the bastard as a disturbing voice echoes from the shadows, “Mr. Slate I've brought you here for one reason, don't worry about your co-worker he was part of the set up and is in excellent health. I couldn't publicly approach you. You see, they are always watching. You have a very unique talent to ferret out secrets and I need that ability to help me find my daughter. Selena's been missing for three years now and I believe a government agency has taken her hostage for experiments. You're the only one who can find her, here's fifty thousand incentives to get your started…”
@@ -70,23 +70,23 @@ Your sire's name is Solomon, and he's lead this cult of followers to provide sus
 
 You make your way out of the jungle with a new mission, a new benefactor, and a recently obtained allergy to sunlight.
 
-##About MDG
+## About MDG
 
 Welcome to the world of MDG: A Victus Role-Playing Game.
 
 In this version of the Victus Role Playing System, you play the part of
 investigators from a modern day Earthlike setting.
 
-###The World of MDG
+### The World of MDG
 
 Like modern day earth with a twist of tequila, mummies, aliens, government
 conspiracies and hong kong action cinematic gun fights.
 
-#Character Generation
+# Character Generation
 
-##Quick Character Creation
+## Quick Character Creation
 
-###Attributes
+### Attributes
 
 Every character has 6 main attributes:
 
@@ -102,7 +102,7 @@ Attribute values are determined by one of two methods:
   * Starting Investigators have 42 points to distribute among their stats, with a minimum of 1 in any stat, and a maximum of 10.
   * Roll 2d6 for each attribute placed to taste (rolls of 11, 12 are lowered to a 10). Also add +6 floating points as desired (up to the starting maximum of 10). You may make one complete set of rerolls but must keep the new rolls.
 
-###Gifts
+### Gifts
 
 Characters start out with 1 pick from the Gifts.
 
@@ -141,7 +141,7 @@ List of Gifts:
 
 * = these Gifts are mutually exclusive, no investigator may have more than one of these Gifts.
 
-###Disadvantages
+### Disadvantages
 
 Characters may choose one disadvantage to flush out their character’s
 background. This Disadvantage allows the choice of another Gift.
@@ -160,7 +160,7 @@ background. This Disadvantage allows the choice of another Gift.
   * Paranoid
   * Useless dependant
 
-###Skills
+### Skills
 
 Characters have their THT times two in skill points to spend. They get 1 free
 level in Literacy and Pilot Land.
@@ -204,7 +204,7 @@ Skills are listed in bold font, with their masteries following in parenthesis:
   * Weapon Systems (Quick Shot, Point Defense)
   * Wood Working (Carver)
 
-##Attributes Details
+## Attributes Details
 
 Characters have 6 basic attributes in the Victus game system: Strength,
 Agility, Durability, Thought, Will, and Presence. An average human has a score of 4 in every attribute. The maximum a normal person can have in an attribute is 10, although realistically, 99% of the population never reaches above a 8.
@@ -220,7 +220,7 @@ Method 2: Roll 2d6 for each attribute placed to taste (rolls of 11, 12 are lower
 Attributes can be advanced during the course of the game, using XP points.
 (See Experience Points section at the end of this chapter).
 
-####Basic Attributes
+#### Basic Attributes
 
 Strength (STR): The physical ability to push, pull, slice, dice, chop, and carry. Strength determines the base amount of damage done with a punch, or adds to the damage done with a hand held melee weapon. Maximum lifting capacity (equivalent to lifting over their head) is 2(Strength/2)*20. Standing jumps can be up to a characters strength/2 in feet. Horizontal distance may be up to the characters strength in feet. A running jump doubles these heights and distances.
 
@@ -305,7 +305,7 @@ pressure. This stat is also necessary for difficult or drawn out tasks, and also
 
 Presence (PRS): Deals with all social situations. A high presence allows a character to influence others around him/her. For social interactions, roll a d20 + PRS + SKL vs. target # ( WIL + SKL + 11) (Where SKL represents the appropriate social skill). Additional situational modifiers [neutral 0, target angered +4 difficulty, target happy -4 difficulty, +skill bonus if applicable]) may apply; these are up to the GM. There are times when this attribute is inapplicable (when arguing with your mother, or in most action sequences for instance, although intimidation or a demand to surrender may be possible when used in unison with an impressive act).
 
-##Gifts Details
+## Gifts Details
 
 Starting characters get 10 Gift Points. An additional 10 Gift Points may be gained by taking a disadvantage. Temporary Will Points may be gained for certain Gifts, each Gift has it's own pool of temporary Will points that it draws from. So with a Will of 6 you may use Fujisawa 3 times per day (6 temporary will points) and Evil Eye 6 times. The Cost of each Gift in Points is in parenthesis () next to the name of the gift.
 
@@ -342,7 +342,7 @@ Starting characters get 10 Gift Points. An additional 10 Gift Points may be gain
   * Minor Wealth(3): Simple stated, you are filthy rich. Start off with 1d6 * $1,000,000
   * Wealth(7): Simple stated, you are filthy rich. Start off with 1d6 * $1,000,000,000
 
-##Flaw Details
+## Flaw Details
 
 Characters may choose one disadvantage to flush out their character's
 background. This Disadvantage allows the choice of another Gift.
@@ -361,7 +361,7 @@ background. This Disadvantage allows the choice of another Gift.
   * Paranoid(5): You never feel safe. You may do things like stay up all night standing guard when in a hostile area, leaving yourself exhausted, even though your teammates were taking a watch shift as well. It's not that you don't trust your teammates, but you never know what could happen…
   * Useless dependant(5): Once per game, you have to deal with an useless dependant getting into some sort of trouble or needing your help, usually at an extremely unopportune moment.
 
-##Skills Details
+## Skills Details
 
 In addition to Attributes, characters have skills to round out their
 abilities. Starting characters get 2*THT in skill points to assist in
@@ -492,21 +492,21 @@ Skill List
   * Wood Working: (Agility) Make figures, toys, wooden weapons. Can make a living as a carpenter.
   * Carver: Can craft masterpiece wooden items like the slave elves for Santa, complete with decorative carvings. ( i.e. masterwork quarterstaffs, elaborate furniture, etc).
 
-#Game Rules
+# Game Rules
 
-##Basics of The Victus Gaming System
+## Basics of The Victus Gaming System
 
-###Experience Points
+### Experience Points
 
 A standard gaming session should yield between 8-12 XP depending on what the gm feels your characters accomplished.
 
-####Spending XP
+#### Spending XP
 
 Using XP points to raise a skill works in the following way: * To learn a new skill it costs 1 xp (normal skills). * To advance (specialize) a skill, it costs the next level in XP.(i.e. to raise a skill to level 2, it costs 2 points. To raise it from 2 to 3, it costs 3 points). * Skill levels are NOT limited and may be raised to any level. * Many powes and gifts provide bonus levels to skills. These levels ride on top of any purchased levels (use the lower base value to determine the cost to raise the skill directly). 
 
 * Each level must be paid for. (You can not raise a skill from a 2 to a 4 without first paying for 3). XP may be used to purchase skills at any time.
 
-###Attributes, Gifts, and Skills
+### Attributes, Gifts, and Skills
 
 Attributes: Basic inherent character abilities.
 
@@ -516,11 +516,11 @@ Flaws: These represent significant disadvantages your investigator may have, and
 
 Skills: Learned abilities.
 
-####How to Make Power Checks
+#### How to Make Power Checks
 
 Power + d20 vs. ATT + SKILL + 11
 
-####How to Make Skill Checks
+#### How to Make Skill Checks
 
 Having a skill at Level 1 means that you are a novice in that skill. (In the case of trade skills, such as smithing, this means that you can hold down a very basic job performing that action). Skill level 4-6 means that you are a skilled professional. Skill levels 7-9 are experts and skill levels 10+ are masters of their trade.
 
@@ -568,7 +568,7 @@ The difficulty level would be Crack-Trip (34) so in order to even attempt it, Bo
 
 Let's say Bob doesn't have rope use, but has acrobatica (a good catch all fancy maneuver skill) and with his 5 agility and 10 skill he'd need a roll of 20 (5 + 10 + d20 - 2 unskilled, target # 34), which is a 21 or better on a d20 roll which is impossible, but remember a roll of 20 allows an additional d20 roll, which is added to the original (this extra die roll can be earned only once). Very powerful investigators can do this sort of thing routinely due to expert training and adventuring.
 
-##Combat
+## Combat
 
 Combat is fast and vicious in the Victus Game system. Rounds are 1 second long, which means that most battles are over in 3 to 5 seconds; it doesnt take that long to have a sword thrust through you.
 
@@ -578,7 +578,7 @@ Characters can use all of their actions in a round. The number of actions that a
 
 Alternatively they may hold one action as an interrupt triggered by another event, “I blaze away with my harpoon gun at the first target through the door”. Or they may delay all their actions until after an event happens, “I delay my initiative until the first guy comes into the room”.
 
-###Attacking
+### Attacking
 
 An attack succeeds if the attackers HIT value is equal to or greater than the opposing characters TARGET value (which can be determined by their EVADE or PARRY value, depending on what they choose to do). The HIT value is determined
 by:
@@ -611,7 +611,7 @@ damage).
 
 Underwater or foriegn environment gives attackers a -4 to hit roll, and -4 to base damage.
 
-###DR Damage Resistance
+### DR Damage Resistance
 
 Damage can be absorbed by DR (which stands for Damage Resistance). Characters may have DR to two types of damage in MDG, Physical and Mental.
 
@@ -623,14 +623,14 @@ Drowning or suffocation damage is d6 per round bypassing all DR. Falling
 damage is 1 point per 10ft fallen, maximized at 20 points for terminal
 velocity.
 
-###Effects of Damage
+### Effects of Damage
 
 When a character is damaged to 0 hit points or lower they are normally
 unconscious. When a character is damaged past their negative Durability they are normally dead (i.e. if a target had a 4 Durability is is damaged to -5 HP or lower, they are dead). Certain powers may modify these levels.
 
 When a Vehicle or Automaton (Robot) is damaged to 0 hit points or lower they are made inoperable and lose functionality. When the Vehicle or Automaton is damaged past it's maximum hitpoints it is utterly annhilated (i.e. if a Robot with 24 maximum hit points is damaged to -25HP or lower it is annhilated, simple repair won't work it'll need to be rebuilt from scratch).
 
-###Grapple Rules
+### Grapple Rules
 
 An attacker can attempt to grapple a single opponent effectively grabbing them and holding them in place. With a single action first roll to hit the target, if successful now roll an opposed strength check d20 + Attackers Effective Strength vs. Targets Effective Strength + 11. 
 
@@ -638,7 +638,7 @@ Vehicles that dont have strength can be locked down as well. Effective strength 
 
 The grapple continues until the target successfully breaks free (they can attempt to break free once per action without the 10 penalty), the grappler must use all their actions to hold the grapple. After the grapple has been successfully applied the grappler may squeeze the target once per round for double their strength in damage.
 
-###Example of combat
+### Example of combat
 
 Lets say a gunner with AGI 8 and Missile 6 is firing from a turret ( unlike hull mounted weapons no upper bounds on accuracy ) with 4 Heavy .50 calibur machine guns at an enemy ship. The gunners total bonus to hit is +16 (14+2 for rapid fire). 
 
@@ -650,7 +650,7 @@ In fact the score (56-25=30)/2 successes or 15 successes. The maximum damage tha
 Since there are 4 Heavy .50 calibur machine gun in this battery the gunner rolls a d6 for each Heavy .50 calibur machine gun or 4d6 to see how many of the rapid fire shots hit and gets a 12. The damage the Cruiser takes is 28-16 = 12 damage per shot so the total damage from the battery is 144. Since this Cruiser only has 60HP it has been sunk. Now if the target was a fortified 10 foot steel wall with greater DR (28 DR) the Heavy .50 calibur machine gun couldn't normally pierce its defense (the maximum damage capacity of 2*14=28 is less than or equal to 28 total DR). But when a critical hit is scored at least 1 point is done per weapon so only four damage (the number of Heavy Rifles in
 a battery) would have been done. This damage can still add up but doesn't put the steel wall in immediate jeoporady.
 
-###Computer Combat
+### Computer Combat
 
 Handle computer combat as follows. Base Initiative is the d6 + THT (the melee mastery QuickDraw and the missile mastery Quick Shot dont apply to computer combat). The characters thought is used for initiative, and acts as agility in that it determines number of attacks and the to hit roll. The will of the hacker acts as both strength and durability in cyberspace (which acts as the damage of his attacks and provides damage resistance (WIL/3 rounded down) and hit points). In hacking combat the number of hit points a hacker has is equal to their (1 + comp ops skill level/2 (rnd down)) * WIL. The hackers computer skill adds to his offensive rolls and raise his hacking evade.
 
@@ -670,7 +670,7 @@ To develop a security system, give it a thought and a will and skill level.
 For instance, a prestigious bank might have a security system with 10 thought and will along with 10 Computer Systems skill. Treat the thought as agility for number of attacks and attack rolls and will as strength and durability. If the security system is defeated (reduced to zero hacking hit points) the hacker has broken in and may make changes to the system (successful computer skill checks with difficulty equal to computers thought + 11 to avoid system users/the A.I. noticing the changes). If the hacker is defeated (his hacking hit points have been reduced to zero) he has failed to penetrate the system defenses and he has been identified as trying to break in the system, his system entry point has also been identified. Good banks will have systems with stats and skill of 10 or 12. Military systems tend to have stats and skills of
 14+.
 
-###Combat Movement
+### Combat Movement
 
 A target can move its normal jog move (agility) in yards/second. Sprinting (1.5x normal movement) can only be done for 5xDUR in seconds; jogging can be done for 5xDUR in minutes (although the running skill can extend this time). 
 
@@ -678,7 +678,7 @@ Walking speed is half agility and can be maintained indefinitely. During comat, 
 
 Movement occurs in initiative order unless the initiative winner forces his opponents to move first (usually a good idea unless your racing for a doorway etc.) and occurs before attacks.
 
-###optional hit locations
+### optional hit locations
 
 Hit Location Table
 
@@ -691,17 +691,17 @@ Hit Location Table
 | 5    | Torso    |                 |
 | 6    | Head     | +1 to damage    |
 
-#Equipment
+# Equipment
 
 Often times Masterwork quality equipment isn't available (connections can be used to make them automatically available to an investigator team for a session), but if they are the cost is 100 times the base price. General masterwork armor gives +2DR, masterwork shields give +1 deflection, and masterwork weapons give a +2 bonus to hit and overall these items look really freaking sweet. 
 
 Vehicles generally have a HP rating. When a vehicle is reduced to zero hitpoints it is no longer functional. When HP are reduced past the negative starting HP of a vehicle it is completely annhilated.
 
-##Miscellaneous
+## Miscellaneous
 
 todo : add little stuff, bad ass sunglasses, infared goggles, xray proof briefcase, survival gear, adrenalin shots (d6 healing)
 
-##Armor
+## Armor
 
 The only required skill for creating body armor is Modern Armor Crafting.
 
@@ -716,7 +716,7 @@ body armor (see the Modern Armor Crafting, Stealthsuit mastery for details).
 
 Riot Shield: +2 deflection (bonus to parry or evade) ($500)
 
-##Weapons Rules
+## Weapons Rules
 
 Crafting all types of weapons takes Mechanical Engineering. In addition
 amunition and bombs require Chemistry. Laser technology and nuclear devices
@@ -754,7 +754,7 @@ Standard(S), Laser Technology(L), Ultra-Rare Government Issue(U).
 | Tactical Nuclear Explosive  | 30     | 1 per                       | 10million | U                   | 28                      | 50lbs        | Dependend on launcher (200 yard radius) | 4 weeks     |
 | Full Nuclear Blast          | 40     | 1 per                       | 100million| U                   | 28                      | 500lbs       | Dependend on launcher (2000 yard radius)| 16 weeks    |
 
-##Vehicles
+## Vehicles
 
 Vehicles have a maximum evasion capability based on their design. The max
 evade is equal to 11 + vehicle agility. So for a vehicle with a 8-vehicle
@@ -782,9 +782,9 @@ agility by 1, but doesn't affect the maximum agility possible.
 | Fighter Jet | PS, EE, C, ME, CS | 40million | 6 | 16 | 30,000lbs | 9 | 2 months | 22 | Rare Military Grade (Skill req: 8) |
 | Jumbo Jet (777) | PS, EE, C, ME, CS | 240million | 6 | 24 | 150tons | 6 | 2 months | 20 | Standard |
 
-#Occult/Magic Section
+# Occult/Magic Section
 
-##Spell Mastery
+## Spell Mastery
 
 Occultists can, if they so choose, opt to become masters at certain skills. It
 is possible to become far better at a certain spell than the regular caster,
@@ -795,7 +795,7 @@ choosing to master in Levitation must pay 9XP and in either case would cast
 those spells at their normal skill level + 5 (to determine damage, duration,
 etc.).
 
-##Spell System
+## Spell System
 
 Characters with the Mystic gift have obtained enough knowledge to be dangerous
 in the area of magic and the occult. You have a number of power points equal
@@ -857,7 +857,7 @@ LEVEL 10
   * Summon Force: A barely visible spirit like force is summoned by performing this ritual which takes 10 seconds to perform. The force is completely controlled by the mystic which can puppet it's actions within his line of sight. Treat the force as an independent body that can be controlled by the Mystic and has the following stats and abilities: Str:12, Agi:casters Tht, Dur:12, Tht:NA acts on casters initiative,Wil:NA,Pre:NA although it might scare people. The force has the following gifts: Grit lvl 3, Thick Skin, and Sustained, and has a base Armor of 6 (Total DR 12= 4Dur+2Skin+6Armor). In addition it has all the skills of the summoner (as he's puppeting it). Each action of the caster may be his own or he may use the force. The duration of the force is 10 minutes per Occult Lore level.
   * Corporeal Reformation: This mighty spell can best be described by the ritual performed in Conan the Barbarian by the sorceror. As the spirits of the damned come to reclaim the tatoo covered deceased target the caster focuses all their power into bringing them back from the dead. It takes an entire night to cast this ritual. This ritual may be performed with only a small fraction of the original dead body. A new body is created, but may be heavily scarred.
 
-#Old Stuff
+# Old Stuff
 
 Some standard DR/HP for structures:
 
@@ -876,7 +876,7 @@ Moon DR 44 REGEN 10 HP/Round HP 400 (gravity)
 Earth Sized Planet DR 60 HP 1000 REGEN 20 HP/Round (gravity, normal geothermal
 activity)
 
-#Need to start some serious descriptive juice
+# Need to start some serious descriptive juice
 
 here go in detail of pyramids/occult/south
 america/africa/india/tibet/thailand/US/.. go crazy
