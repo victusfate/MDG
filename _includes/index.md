@@ -751,8 +751,8 @@ Standard(S), Laser Technology(L), Ultra-Rare Government Issue(U).
 | Laser Weapon (melee)        | Base+2 | Battery:1hr, minimum 10min  | 200,000   | L                   | 20                      | same as weapon| 1 yard                        | 2 days           |
 | Concussive Grenade          | 10     | 1 per                       | 50        | S                   | 20                      | 2lbs         | 10+Str yards thrown (5 yard radius) | 1 day        |
 | Photon Grenade              | 12     | 1 per                       | 1000      | L                   | 22                      | 2lbs         | 10+Str yards thrown (5 yard radius) | 2 days        |
-| Tactical Nuclear Explosive  | 30     | 1 per                       | 10million | U                   | 28                      | 50lbs        | Dependend on launcher (200 yard radius) | 4 weeks     |
-| Full Nuclear Blast          | 40     | 1 per                       | 100million| U                   | 28                      | 500lbs       | Dependend on launcher (2000 yard radius)| 16 weeks    |
+| Tactical Nuclear Explosive  | 30     | 1 per                       | 10million | U                   | 28                      | 50lbs        | Depending on launcher (200 yard radius) | 4 weeks     |
+| Full Nuclear Blast          | 40     | 1 per                       | 100million| U                   | 28                      | 500lbs       | Depending on launcher (2000 yard radius)| 16 weeks    |
 
 ## Vehicles
 
