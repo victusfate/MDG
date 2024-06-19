@@ -1,6 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [M.D.G.](#mdg)
 - [Introduction](#introduction)
@@ -44,47 +42,23 @@
 - [Old Stuff](#old-stuff)
 - [Need to start some serious descriptive juice](#need-to-start-some-serious-descriptive-juice)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#   M.D.G.
+#M.D.G.
 
-Modern Day Game or the Most Deadly Game you decide. A modern day adventure
-game
+Modern Day Game or the Most Deadly Game you decide. A modern day adventure game
 
 Copyright 2002 Game Design: Eli Sacks, Mark Essel, Aakin Patel
 
-#   Introduction
+#Introduction
 
 After chasing the suspect down a series of small alleyways he seemingly
-vanishes into mist before your very eyes. Any dreams of your private agency
-taking a few pictures of a lecherous husband or finding a lost dog for a
-couple of extra bucks was just shot to hell along with your partner. You hear
-sounds of scuffling boots going up the fire escape on an adjacent building,
-now's not the time to ponder. Reflexes take over and your .38 special is
-brought to bear on the bastard as a disturbing voice echoes from the shadows,
-“Mr. Slate I've brought you here for one reason, don't worry about your co-
-worker he was part of the set up and is in excellent health. I couldn't
-publicly approach you. You see, they are always watching. You have a very
-unique talent to ferret out secrets and I need that ability to help me find my
-daughter. Selena's been missing for three years now and I believe a government
-agency has taken her hostage for experiments. You're the only one who can find
-her, here's fifty thousand incentives to get your started…”
+vanishes into mist before your very eyes. Any dreams of your private agency taking a few pictures of a lecherous husband or finding a lost dog for a couple of extra bucks was just shot to hell along with your partner. You hear sounds of scuffling boots going up the fire escape on an adjacent building, now's not the time to ponder. Reflexes take over and your .38 special is brought to bear on the bastard as a disturbing voice echoes from the shadows, “Mr. Slate I've brought you here for one reason, don't worry about your co-worker he was part of the set up and is in excellent health. I couldn't publicly approach you. You see, they are always watching. You have a very unique talent to ferret out secrets and I need that ability to help me find my daughter. Selena's been missing for three years now and I believe a government agency has taken her hostage for experiments. You're the only one who can find her, here's fifty thousand incentives to get your started…”
 
-It's been a few weeks and you've narrowed down the whereabouts of Cynthia to a
-tomb beneath an ancient Mayan pyramid where the cult she joined (and was later
-abducted by) now resides. It's a race against time, as you make your way down
-hall after stone hall, knocking out any cultist guards silently as you go. As
-you creep up from the shadows you overlook a horrifying sight. You can see Mr.
-Black's daughter's lifeless form twitching as her assassins exalt over her
-headless form. A rush of anger washes over you, to be replaced by cold and
-calculating righteous vengeance. You dive into the room with both 9mm's firing
-taking out cultist after cultist as you make your way to the man holding the
-blade. He motions his guardians to the side as he leans forwards, begins
-violently coughing and his visage transforms in a moment from euphoria to
-hellspawn. Fangs protrude from his mouth and his eyes go the color of dusk.
-What have you got yourself into now? Your last memories are of the hammering
-of your gun chambers as you take down one more cultist before the vampire
-fists struck you multiple times in the face.
+It's been a few weeks and you've narrowed down the whereabouts of Cynthia to a tomb beneath an ancient Mayan pyramid where the cult she joined (and was later abducted by) now resides. It's a race against time, as you make your way down hall after stone hall, knocking out any cultist guards silently as you go. As you creep up from the shadows you overlook a horrifying sight. You can see Mr. Black's daughter's lifeless form twitching as her assassins exalt over her headless form. 
+
+A rush of anger washes over you, to be replaced by cold and calculating righteous vengeance. You dive into the room with both 9mm's firing taking out cultist after cultist as you make your way to the man holding the blade. He motions his guardians to the side as he leans forwards, begins violently coughing and his visage transforms in a moment from euphoria to hellspawn. Fangs protrude from his mouth and his eyes go the color of dusk.
+
+What have you got yourself into now? Your last memories are of the hammering of your gun chambers as you take down one more cultist before the vampire fists struck you multiple times in the face.
 
 Pain…
 
@@ -92,31 +66,27 @@ Death…
 
 Thirst…
 
-Your sire's name is Solomon, and he's lead this cult of followers to provide
-sustenance to him for over a hundred years. He's revered as an immortal god.
-His decision to turn you was motivated by a need for additional knowledge
-about Mr. Black, and you're simply a tool. That's fine, you've considered
-yourself worth even less when you breathed, and it's better than being dead.
-You make your way out of the jungle with a new mission, a new benefactor, and
-a recently obtained allergy to sunlight.
+Your sire's name is Solomon, and he's lead this cult of followers to provide sustenance to him for over a hundred years. He's revered as an immortal god. His decision to turn you was motivated by a need for additional knowledge about Mr. Black, and you're simply a tool. That's fine, you've considered yourself worth even less when you breathed, and it's better than being dead.
 
-##   About MDG
+You make your way out of the jungle with a new mission, a new benefactor, and a recently obtained allergy to sunlight.
+
+##About MDG
 
 Welcome to the world of MDG: A Victus Role-Playing Game.
 
 In this version of the Victus Role Playing System, you play the part of
 investigators from a modern day Earthlike setting.
 
-###   The World of MDG
+###The World of MDG
 
 Like modern day earth with a twist of tequila, mummies, aliens, government
 conspiracies and hong kong action cinematic gun fights.
 
-#   Character Generation
+#Character Generation
 
-##   Quick Character Creation
+##Quick Character Creation
 
-###   Attributes
+###Attributes
 
 Every character has 6 main attributes:
 
@@ -132,7 +102,7 @@ Attribute values are determined by one of two methods:
   * Starting Investigators have 42 points to distribute among their stats, with a minimum of 1 in any stat, and a maximum of 10.
   * Roll 2d6 for each attribute placed to taste (rolls of 11, 12 are lowered to a 10). Also add +6 floating points as desired (up to the starting maximum of 10). You may make one complete set of rerolls but must keep the new rolls.
 
-###   Gifts
+###Gifts
 
 Characters start out with 1 pick from the Gifts.
 
@@ -171,7 +141,7 @@ List of Gifts:
 
 * = these Gifts are mutually exclusive, no investigator may have more than one of these Gifts.
 
-###   Disadvantages
+###Disadvantages
 
 Characters may choose one disadvantage to flush out their character’s
 background. This Disadvantage allows the choice of another Gift.
@@ -190,7 +160,7 @@ background. This Disadvantage allows the choice of another Gift.
   * Paranoid
   * Useless dependant
 
-###   Skills
+###Skills
 
 Characters have their THT times two in skill points to spend. They get 1 free
 level in Literacy and Pilot Land.
@@ -234,427 +204,110 @@ Skills are listed in bold font, with their masteries following in parenthesis:
   * Weapon Systems (Quick Shot, Point Defense)
   * Wood Working (Carver)
 
-##   Attributes Details
+##Attributes Details
 
 Characters have 6 basic attributes in the Victus game system: Strength,
-Agility, Durability, Thought, Will, and Presence. An average human has a score
-of 4 in every attribute. The maximum a normal person can have in an attribute
-is 10, although realistically, 99% of the population never reaches above a 8.
+Agility, Durability, Thought, Will, and Presence. An average human has a score of 4 in every attribute. The maximum a normal person can have in an attribute is 10, although realistically, 99% of the population never reaches above a 8.
+
 Gifted individuals can exceed these values.
 
-There are two ways to generate attributes. Unless the GM decides otherwise,
-the PC may choose the method of attribute generation.
+There are two ways to generate attributes. Unless the GM decides otherwise, the PC may choose the method of attribute generation.
 
-Method 1: Starting Investigators have 42 points to distribute among their
-stats, with a minimum of 1 in any stat, and a maximum of 10.
+Method 1: Starting Investigators have 42 points to distribute among their stats, with a minimum of 1 in any stat, and a maximum of 10.
 
-Method 2: Roll 2d6 for each attribute placed to taste (rolls of 11, 12 are
-lowered to a 10). Also add +6 floating points as desired (up to the starting
-maximum of 10). You may make one complete set of rerolls (including the
-floating points) but must keep the new rolls.
+Method 2: Roll 2d6 for each attribute placed to taste (rolls of 11, 12 are lowered to a 10). Also add +6 floating points as desired (up to the starting maximum of 10). You may make one complete set of rerolls (including the floating points) but must keep the new rolls.
 
 Attributes can be advanced during the course of the game, using XP points.
 (See Experience Points section at the end of this chapter).
 
-####   Basic Attributes
-
-Strength (STR): The physical ability to push, pull, slice, dice, chop, and
-carry. Strength determines the base amount of damage done with a punch, or
-adds to the damage done with a hand held melee weapon. Maximum lifting
-capacity (equivalent to lifting over their head) is 2(Strength/2)*20. Standing
-jumps can be up to a characters strength/2 in feet. Horizontal distance may be
-up to the characters strength in feet. A running jump doubles these heights
-and distances.
-
-Strength
-
-Maximum Lifting (Dead Lift) (lbs)
-
-1
-
-28
-
-2
-
-40
-
-3
-
-57
-
-4
-
-80
-
-5
-
-113
-
-6
-
-160
-
-7
-
-226
-
-8
-
-320
-
-9
-
-453
-
-10
-
-640
-
-11
-
-905
-
-12
-
-1280
-
-13
-
-1810
-
-14
-
-2560
-
-15
-
-3620
-
-16
-
-5120
-
-17
-
-7241
-
-18
-
-10240
-
-19
-
-14482
-
-20
-
-20480
-
-21
-
-28963
-
-22
-
-40960
-
-23
-
-57926
-
-24
-
-81920
-
-25
-
-115852
-
-26
-
-163840
-
-27
-
-231705
-
-28
-
-327680
-
-29
-
-463410
-
-30
-
-655360
-
-31
-
-926819
-
-32
-
-1310720
-
-33
-
-1853638
-
-34
-
-2621440
-
-35
-
-3707276
-
-36
-
-5242880
-
-37
-
-7414552
-
-38
-
-10485760
-
-39
-
-14829104
-
-40
-
-20971520
-
-Agility (AGI): Represents manual dexterity and maneuverability, as well as the
-ability to avoid something. The number of actions you may take per round is
-your character agility divided by 4 rounding down with a minimum of one action
-per round.
-
-Agility
-
-Walking Speed
-
-Jogging Speed
-
-Sprinting Speed
-
-1
-
-.5 yrd/sec
-
-1 yrds/sec
-
-1.5yrds/sec
-
-2
-
-1 yrds/sec
-
-2 yrds/sec
-
-3 yrds/sec
-
-3
-
-1.5 yrds/sec
-
-3 yrds/sec
-
-4.5yrds/sec
-
-4
-
-2 yrds/sec
-
-4 yrds/sec
-
-6 yrds/sec
-
-5
-
-2.5 yrds/sec
-
-5 yrds/sec
-
-7.5yrds/sec
-
-6
-
-3 yrds/sec
-
-6 yrds/sec
-
-9 yrds/sec
-
-7
-
-3.5 yrds/sec
-
-7 yrds/sec
-
-10.5yrds/sec
-
-8
-
-4 yrds/sec
-
-8 yrds/sec
-
-12yrds/sec
-
-9
-
-4.5 yrds/sec
-
-9 yrds/sec
-
-13.5yrds/sec
-
-10
-
-5 yrds/sec
-
-10 yrds/sec
-
-15yrds/sec
-
-11
-
-5.5 yrds/sec
-
-11 yrds/sec
-
-16.5yrds/sec
-
-12
-
-6 yrds/sec
-
-12 yrds/sec
-
-18yrds/sec
-
-13
-
-6.5 yrds/sec
-
-13 yrds/sec
-
-19.5yrds/sec
-
-14
-
-7 yrds/sec
-
-14 yrds/sec
-
-21yrds/sec
-
-15
-
-7.5 yrds/sec
-
-15 yrds/sec
-
-22.5yrds/sec
-
-16
-
-8 yrds/sec
-
-16 yrds/sec
-
-24yrds/sec
-
-17
-
-8.5 yrds/sec
-
-17 yrds/sec
-
-25.5yrds/sec
-
-18
-
-9 yrds/sec
-
-18 yrds/sec
-
-27yrds/sec
-
-19
-
-9.5 yrds/sec
-
-19 yrds/sec
-
-28.5yrds/sec
-
-20
-
-10 yrds/sec
-
-20 yrds/sec
-
-30yrds/sec
-
-This score is used in conjunction with skills to strike at an opponent or to
-dodge out of the way of their blows. Agility is also the base jogging movement
-of an individual in yards per round (so a normal human can jog 4 yards per
-second, or a little over 8.4 miles per hour). Humans may walk at half this
-rate (on average 2 yards per second or 4.2 miles per hour) and sprint at 1.5
-times the jogging rate (13 miles per hour). Sprinting can only be done for
-5xDurability in Seconds, jogging can be done for 5Xdurability in minutes
-(although the running skill can extend this time). The scale factor from
-yards/sec to miles per hour is 2.1 (6 yards/sec is about 12.6 miles per hour).
-Also Agility is used to determine the number of actions a character may take
-in a round. The number of actions a character may take per round is equal to
-their Agility/4 rounding down.
-
-Durability (DUR): A characters overall toughness and endurance, and lets you
-survive not managing to avoid someone with a lot of strength.This stat is used
-to determine a characters resistance to damage. The number of Hit points a
-character begins with is equal to their durability. (The Grit sub-power can
-increase hit points over this amount). Also, for every three points of
-Durability (rounded down), the character gains a point of DR (0 skin DR for
-DUR 1 to 2, +1 skin DR for DUR 3 to 5, +2 skin DR for DUR 6 to 8, etc). This
-is cumulative with other armors.
-
-Thought (THT): Intelligence, learning ability, analytical skills, speed of
-thought, ability to react well to new situations. Memory is also represented
-by this attribute, but only to a lesser extent. Thought is the attribute
-associated with most skills, and also determines the starting number of skill
-points (THT x 2) (Example: THT 4 gives you 8 starting skill points). It is
-also used for base initiative (THT + + d20, tie's are decided by THT if still
-tied they roll off d20 to determine who goes before the other).
+####Basic Attributes
+
+Strength (STR): The physical ability to push, pull, slice, dice, chop, and carry. Strength determines the base amount of damage done with a punch, or adds to the damage done with a hand held melee weapon. Maximum lifting capacity (equivalent to lifting over their head) is 2(Strength/2)*20. Standing jumps can be up to a characters strength/2 in feet. Horizontal distance may be up to the characters strength in feet. A running jump doubles these heights and distances.
+
+| Strength | Maximum Lifting (Dead Lift) (lbs) |
+|----------|-----------------------------------|
+| 1        | 28                                |
+| 2        | 40                                |
+| 3        | 57                                |
+| 4        | 80                                |
+| 5        | 113                               |
+| 6        | 160                               |
+| 7        | 226                               |
+| 8        | 320                               |
+| 9        | 453                               |
+| 10       | 640                               |
+| 11       | 905                               |
+| 12       | 1280                              |
+| 13       | 1810                              |
+| 14       | 2560                              |
+| 15       | 3620                              |
+| 16       | 5120                              |
+| 17       | 7241                              |
+| 18       | 10240                             |
+| 19       | 14482                             |
+| 20       | 20480                             |
+| 21       | 28963                             |
+| 22       | 40960                             |
+| 23       | 57926                             |
+| 24       | 81920                             |
+| 25       | 115852                            |
+| 26       | 163840                            |
+| 27       | 231705                            |
+| 28       | 327680                            |
+| 29       | 463410                            |
+| 30       | 655360                            |
+| 31       | 926819                            |
+| 32       | 1310720                           |
+| 33       | 1853638                           |
+| 34       | 2621440                           |
+| 35       | 3707276                           |
+| 36       | 5242880                           |
+| 37       | 7414552                           |
+| 38       | 10485760                          |
+| 39       | 14829104                          |
+| 40       | 20971520                          |
+
+Agility (AGI): Represents manual dexterity and maneuverability, as well as the ability to avoid something. The number of actions you may take per round is your character agility divided by 4 rounding down with a minimum of one action per round.
+
+| Agility | Walking Speed | Jogging Speed | Sprinting Speed |
+|---------|---------------|---------------|-----------------|
+| 1       | .5 yrd/sec    | 1 yrds/sec    | 1.5yrds/sec     |
+| 2       | 1 yrds/sec    | 2 yrds/sec    | 3 yrds/sec      |
+| 3       | 1.5 yrds/sec  | 3 yrds/sec    | 4.5yrds/sec     |
+| 4       | 2 yrds/sec    | 4 yrds/sec    | 6 yrds/sec      |
+| 5       | 2.5 yrds/sec  | 5 yrds/sec    | 7.5yrds/sec     |
+| 6       | 3 yrds/sec    | 6 yrds/sec    | 9 yrds/sec      |
+| 7       | 3.5 yrds/sec  | 7 yrds/sec    | 10.5yrds/sec    |
+| 8       | 4 yrds/sec    | 8 yrds/sec    | 12yrds/sec      |
+| 9       | 4.5 yrds/sec  | 9 yrds/sec    | 13.5yrds/sec    |
+| 10      | 5 yrds/sec    | 10 yrds/sec   | 15yrds/sec      |
+| 11      | 5.5 yrds/sec  | 11 yrds/sec   | 16.5yrds/sec    |
+| 12      | 6 yrds/sec    | 12 yrds/sec   | 18yrds/sec      |
+| 13      | 6.5 yrds/sec  | 13 yrds/sec   | 19.5yrds/sec    |
+| 14      | 7 yrds/sec    | 14 yrds/sec   | 21yrds/sec      |
+| 15      | 7.5 yrds/sec  | 15 yrds/sec   | 22.5yrds/sec    |
+| 16      | 8 yrds/sec    | 16 yrds/sec   | 24yrds/sec      |
+| 17      | 8.5 yrds/sec  | 17 yrds/sec   | 25.5yrds/sec    |
+| 18      | 9 yrds/sec    | 18 yrds/sec   | 27yrds/sec      |
+| 19      | 9.5 yrds/sec  | 19 yrds/sec   | 28.5yrds/sec    |
+| 20      | 10 yrds/sec   | 20 yrds/sec   | 30yrds/sec      |
+
+This score is used in conjunction with skills to strike at an opponent or to dodge out of the way of their blows. Agility is also the base jogging movement of an individual in yards per round (so a normal human can jog 4 yards per second, or a little over 8.4 miles per hour). Humans may walk at half this rate (on average 2 yards per second or 4.2 miles per hour) and sprint at 1.5 times the jogging rate (13 miles per hour). Sprinting can only be done for 5 x Durability in Seconds, jogging can be done for 5Xdurability in minutes (although the running skill can extend this time). The scale factor from yards/sec to miles per hour is 2.1 (6 yards/sec is about 12.6 miles per hour).
+
+Also Agility is used to determine the number of actions a character may take in a round. The number of actions a character may take per round is equal to their Agility/4 rounding down.
+
+Durability (DUR): A characters overall toughness and endurance, and lets you survive not managing to avoid someone with a lot of strength.This stat is used to determine a characters resistance to damage. The number of Hit points a character begins with is equal to their durability. (The Grit sub-power can increase hit points over this amount). Also, for every three points of Durability (rounded down), the character gains a point of DR (0 skin DR for DUR 1 to 2, +1 skin DR for DUR 3 to 5, +2 skin DR for DUR 6 to 8, etc). This is cumulative with other armors.
+
+Thought (THT): Intelligence, learning ability, analytical skills, speed of thought, ability to react well to new situations. Memory is also represented by this attribute, but only to a lesser extent. Thought is the attribute associated with most skills, and also determines the starting number of skill points (THT x 2) (Example: THT 4 gives you 8 starting skill points). It is also used for base initiative (THT + + d20, tie's are decided by THT if still tied they roll off d20 to determine who goes before the other).
 
 Will (WIL): Willpower. Resisting mental attacks, performing well under
-pressure. This stat is also necessary for difficult or drawn out tasks, and
-also represents the character's perception and attention to detail.
+pressure. This stat is also necessary for difficult or drawn out tasks, and also represents the character's perception and attention to detail.
 
-Presence (PRS): Deals with all social situations. A high presence allows a
-character to influence others around him/her. For social interactions, roll a
-d20 + PRS + SKL vs. target # ( WIL + SKL + 11) (Where SKL represents the
-appropriate social skill). Additional situational modifiers [neutral 0, target
-angered +4 difficulty, target happy -4 difficulty, +skill bonus if
-applicable]) may apply; these are up to the GM. There are times when this
-attribute is inapplicable (when arguing with your mother, or in most action
-sequences for instance, although intimidation or a demand to surrender may be
-possible when used in unison with an impressive act).
+Presence (PRS): Deals with all social situations. A high presence allows a character to influence others around him/her. For social interactions, roll a d20 + PRS + SKL vs. target # ( WIL + SKL + 11) (Where SKL represents the appropriate social skill). Additional situational modifiers [neutral 0, target angered +4 difficulty, target happy -4 difficulty, +skill bonus if applicable]) may apply; these are up to the GM. There are times when this attribute is inapplicable (when arguing with your mother, or in most action sequences for instance, although intimidation or a demand to surrender may be possible when used in unison with an impressive act).
 
-##   Gifts Details
+##Gifts Details
 
-Starting characters get 10 Gift Points. An additional 10 Gift Points may be
-gained by taking a disadvantage. Temporary Will Points may be gained for
-certain Gifts, each Gift has it's own pool of temporary Will points that it
-draws from. So with a Will of 6 you may use Fujisawa 3 times per day (6
-temporary will points) and Evil Eye 6 times. The Cost of each Gift in Points
-is in parenthesis () next to the name of the gift.
+Starting characters get 10 Gift Points. An additional 10 Gift Points may be gained by taking a disadvantage. Temporary Will Points may be gained for certain Gifts, each Gift has it's own pool of temporary Will points that it draws from. So with a Will of 6 you may use Fujisawa 3 times per day (6 temporary will points) and Evil Eye 6 times. The Cost of each Gift in Points is in parenthesis () next to the name of the gift.
 
   * Aquatic Affinity(3): This sub-power yields +4 bonus levels (these levels ride on top of the purchased levels) to the swimming skill, the ability to breathe underwater and innate friendliness with undersea life. You receive no penalties when in a liquid environment (normally underwater gives -4 to hit and base damage).
   * The Chef(5): You were trained at the HL Culinary Institute and Martial Arts School. Get +2 bonus level to melee, acrobatics and the cooking skill (these levels ride on top of the purchased levels).
@@ -689,7 +342,7 @@ is in parenthesis () next to the name of the gift.
   * Minor Wealth(3): Simple stated, you are filthy rich. Start off with 1d6 * $1,000,000
   * Wealth(7): Simple stated, you are filthy rich. Start off with 1d6 * $1,000,000,000
 
-##   Flaw Details
+##Flaw Details
 
 Characters may choose one disadvantage to flush out their character's
 background. This Disadvantage allows the choice of another Gift.
@@ -708,35 +361,25 @@ background. This Disadvantage allows the choice of another Gift.
   * Paranoid(5): You never feel safe. You may do things like stay up all night standing guard when in a hostile area, leaving yourself exhausted, even though your teammates were taking a watch shift as well. It's not that you don't trust your teammates, but you never know what could happen…
   * Useless dependant(5): Once per game, you have to deal with an useless dependant getting into some sort of trouble or needing your help, usually at an extremely unopportune moment.
 
-##   Skills Details
+##Skills Details
 
 In addition to Attributes, characters have skills to round out their
 abilities. Starting characters get 2*THT in skill points to assist in
 character generation. Each skill point can be used to buy 1 level in a skill.
 Starting characters can buy a skill up to a maximum of skill level 6.
 
-Advancing a skill after the game starts is more expensive than buying it up
-with the starting skill points. A standard gaming session should yield between
-8+ XP depending on what the gm feels your characters accomplished. Using XP
-points to raise a skill works in the following way:
+Advancing a skill after the game starts is more expensive than buying it up with the starting skill points. A standard gaming session should yield between 8+ XP depending on what the gm feels your characters accomplished. Using XP points to raise a skill works in the following way:
 
   * To learn a new skill it costs 1 xp (normal skills).
   * To advance (specialize) a skill, it costs the next level in XP.(i.e. to raise a skill to level 2, it costs 2 points. To raise it from 2 to 3, it costs 3 points).
   * Skill levels are NOT limited (no upper bound)
 
-Many powes and sub-powers provide bonus levels to skills. These levels ride on
-top of any purchased levels and are cumulative (use the lower base value to
-determine the cost to raise the skill directly).
+Many powes and sub-powers provide bonus levels to skills. These levels ride on top of any purchased levels and are cumulative (use the lower base value to determine the cost to raise the skill directly).
 
 Each level must be paid for. (You can not raise a skill from a 2 to a 4
 without first paying for 3). XP may be used to purchase skills at any time.
 
-Skill Mastery: Once level 10 is reached in a skill, your character gains a
-mastery ability. An additional mastery is gained every four levels after 10
-(14, 18, etc.) if available. This is an ability that you pick (one out of the
-list available for any given skill) that helps show that you are truly a
-legendary master at that skill. (For example, melee masters can learn thrown
-melee weapons, quickdraw, etc). Mastery abilities are listed under each skill
+Skill Mastery: Once level 10 is reached in a skill, your character gains a mastery ability. An additional mastery is gained every four levels after 10 (14, 18, etc.) if available. This is an ability that you pick (one out of the list available for any given skill) that helps show that you are truly a legendary master at that skill. (For example, melee masters can learn thrown melee weapons, quickdraw, etc). Mastery abilities are listed under each skill
 in italics.
 
 Skill List
@@ -849,329 +492,167 @@ Skill List
   * Wood Working: (Agility) Make figures, toys, wooden weapons. Can make a living as a carpenter.
   * Carver: Can craft masterpiece wooden items like the slave elves for Santa, complete with decorative carvings. ( i.e. masterwork quarterstaffs, elaborate furniture, etc).
 
-#   Game Rules
+#Game Rules
 
-##   Basics of The Victus Gaming System
+##Basics of The Victus Gaming System
 
-###   Experience Points
+###Experience Points
 
-A standard gaming session should yield between 8-12 XP depending on what the
-gm feels your characters accomplished.
+A standard gaming session should yield between 8-12 XP depending on what the gm feels your characters accomplished.
 
-####   Spending XP
+####Spending XP
 
-Using XP points to raise a skill works in the following way: * To learn a new
-skill it costs 1 xp (normal skills). * To advance (specialize) a skill, it
-costs the next level in XP.(i.e. to raise a skill to level 2, it costs 2
-points. To raise it from 2 to 3, it costs 3 points). * Skill levels are NOT
-limited and may be raised to any level. * Many powes and gifts provide bonus
-levels to skills. These levels ride on top of any purchased levels (use the
-lower base value to determine the cost to raise the skill directly). * Each
-level must be paid for. (You can not raise a skill from a 2 to a 4 without
-first paying for 3). XP may be used to purchase skills at any time.
+Using XP points to raise a skill works in the following way: * To learn a new skill it costs 1 xp (normal skills). * To advance (specialize) a skill, it costs the next level in XP.(i.e. to raise a skill to level 2, it costs 2 points. To raise it from 2 to 3, it costs 3 points). * Skill levels are NOT limited and may be raised to any level. * Many powes and gifts provide bonus levels to skills. These levels ride on top of any purchased levels (use the lower base value to determine the cost to raise the skill directly). 
 
-###   Attributes, Gifts, and Skills
+* Each level must be paid for. (You can not raise a skill from a 2 to a 4 without first paying for 3). XP may be used to purchase skills at any time.
+
+###Attributes, Gifts, and Skills
 
 Attributes: Basic inherent character abilities.
 
-Gifts: Sometimes supernatural, sometimes incredible natural talents, these
-abilities help customize a character's powers
+Gifts: Sometimes supernatural, sometimes incredible natural talents, these abilities help customize a character's powers
 
-Flaws: These represent significant disadvantages your investigator may have,
-and help add flavor to a character
+Flaws: These represent significant disadvantages your investigator may have, and help add flavor to a character
 
 Skills: Learned abilities.
 
-####   How to Make Power Checks
+####How to Make Power Checks
 
 Power + d20 vs. ATT + SKILL + 11
 
-####   How to Make Skill Checks
+####How to Make Skill Checks
 
-Having a skill at Level 1 means that you are a novice in that skill. (In the
-case of trade skills, such as smithing, this means that you can hold down a
-very basic job performing that action). Skill level 4-6 means that you are a
-skilled professional. Skill levels 7-9 are experts and skill levels 10+ are
-masters of their trade.
+Having a skill at Level 1 means that you are a novice in that skill. (In the case of trade skills, such as smithing, this means that you can hold down a very basic job performing that action). Skill level 4-6 means that you are a skilled professional. Skill levels 7-9 are experts and skill levels 10+ are masters of their trade.
 
-In game terms, this means that you get a +1 to a roll for every level you have
-in a skill. (In other words, your bonus is equal to your skill leve). Example:
-Say your character has the smithing skill at level 3. This means that you have
-a +3 bonus to every smithing roll you make. All skills are associated with an
-attribute to determine a roll. This attribute is not always fixed; different
-situations call for different attributes. The GM will decide what is
-appropriate in a given situation. Example: Stealth can be used to sneak around
-and is paired with AGI.
+In game terms, this means that you get a +1 to a roll for every level you have in a skill. (In other words, your bonus is equal to your skill leve). 
+
+Example: Say your character has the smithing skill at level 3. This means that you have a +3 bonus to every smithing roll you make. All skills are associated with an attribute to determine a roll. This attribute is not always fixed; different situations call for different attributes. The GM will decide what is appropriate in a given situation. Example: Stealth can be used to sneak around and is paired with AGI.
 
 Rolls are made in the following manner:
 
 d20+ATT+SKL
 
-where ATT is the appropriate attribute (STR, AGI, DUR, THT, WIL, PRS) and
-skill is the level of skill being used. Resistance values are static and are
-ATT+SKL+11. Note that in the case noticing a sneaking character, the observer
-may roll a d20 + Alertness Skill Levels + WIL versus a static stealth number
-of AGI + Stealth Skill Levels + 11.
+where ATT is the appropriate attribute (STR, AGI, DUR, THT, WIL, PRS) and skill is the level of skill being used. Resistance values are static and are ATT+SKL+11. Note that in the case noticing a sneaking character, the observer may roll a d20 + Alertness Skill Levels + WIL versus a static stealth number of AGI + Stealth Skill Levels + 11.
 
-Advancing a skill after the game starts is more expensive than buying it up
-with the starting skill points. Using XP points to raise a skill works in the
-following way:
+Advancing a skill after the game starts is more expensive than buying it up with the starting skill points. Using XP points to raise a skill works in the following way:
 
   * To learn a new skill it costs 1 xp (normal skills).
   * To advance (specialize) a skill, it costs the next level in XP.(i.e. to raise a skill to level 2, it costs 2 points. To raise it from 2 to 3, it costs 3 points).
   * Each level must be paid for. (You can not raise a skill from a 2 to a 4 without first paying for 3).
 
 Skill checks are made using the appropriate stat, as described above.
-Unskilled attempts have a penalty of 2 to the roll, and may sometimes not be
-available(NU is used to denote skills that may not be rolled for unskilled,
-NU=not unskilled). When a check is required the target rolls d20. A roll of a
-1 is an automatic failure unless the character is a master of the skill (level
-10+). A roll of 20 is an automatic success except in the case of a crack trip
+Unskilled attempts have a penalty of 2 to the roll, and may sometimes not be available(NU is used to denote skills that may not be rolled for unskilled, NU=not unskilled). When a check is required the target rolls d20. A roll of a 1 is an automatic failure unless the character is a master of the skill (level 10+). A roll of 20 is an automatic success except in the case of a crack trip
 difficulty.
 
-Skill /Action Check
+| Skill /Action Check | Difficulty Number |
+|---------------------|-------------------|
+| Easy                | 8                 |
+| Sub-Par             | 14                |
+| Average             | 18                |
+| Tough               | 22                |
+| Very Difficult      | 26                |
+| Damn-Near Impossible| 30                |
+| Crack-Trip (Need skill 10+ to attempt) | 34+ |
 
-Difficulty Number
+For example, Bob Rica wants to leap off a moving bus traveling at 30 mph and grab onto a car roof during an ice storm, open the passenger door and sit down before his hair gets too wet. This is damn near impossible. 
 
-Easy
+Bob takes his agility 5 and because he's skilled level 2 in acrobatics his total bonus is 5 + 2 = 7. To succeed Bob has to roll a 20 (that maneuver sounds like its damn near impossible, game master determines difficulties) or higher to make the target number of 30 (20 always succeeds unless the action is Crack-Trip. 
 
-8
+Bob decides this is just too tough, so instead he decides to just leap on top of the car (that's still average target number of 18) so the roll necessary is now an 11 (5 + 2 + d20 target number 18) or better. Suppose Bob was level 4 in acrobatics, this has a strong effect on his odds of making the leap now the total is 5 agility + 4 skill + d20 so he'd only need to roll a 9 to make it.
 
-Sub-Par
+If Bob werent skilled in acrobatics at all he'd need to roll a 15 (5 agility -2 unskilled penalty + d20 target # 18).
 
-14
+Target #'s requiring a roll of higher than 20 are possible. As an example, suppose Bob Rica wanted to pull off his belt, swing it around the back of the car, and water ski on the icy road behind the car after leaping from the bus.
 
-Average
+The difficulty level would be Crack-Trip (34) so in order to even attempt it, Bob would have to have skill level 10 in one of the appropriate skills. In addition if Bob weren't skilled in both rope use and acrobatics (close to skiing) hed incur an additional 2 penalty.
 
-18
+Let's say Bob doesn't have rope use, but has acrobatica (a good catch all fancy maneuver skill) and with his 5 agility and 10 skill he'd need a roll of 20 (5 + 10 + d20 - 2 unskilled, target # 34), which is a 21 or better on a d20 roll which is impossible, but remember a roll of 20 allows an additional d20 roll, which is added to the original (this extra die roll can be earned only once). Very powerful investigators can do this sort of thing routinely due to expert training and adventuring.
 
-Tough
+##Combat
 
-22
+Combat is fast and vicious in the Victus Game system. Rounds are 1 second long, which means that most battles are over in 3 to 5 seconds; it doesnt take that long to have a sword thrust through you.
 
-Very Difficult
+An action is either a movement or attack (so if you want to move and attack it requires 2 actions).
 
-26
+Characters can use all of their actions in a round. The number of actions that a character can take is determined by the characters AGI, dividing it by 4, and rounding down. A character takes all of his actions on his initiative, which is determined by rolling a d20 and adding it to a characters THT.
 
-Damn-Near Impossible
+Alternatively they may hold one action as an interrupt triggered by another event, “I blaze away with my harpoon gun at the first target through the door”. Or they may delay all their actions until after an event happens, “I delay my initiative until the first guy comes into the room”.
 
-30
+###Attacking
 
-Crack-Trip (Need skill 10+ to attempt)
-
-34+
-
-For example, Bob Rica wants to leap off a moving bus traveling at 30 mph and
-grab onto a car roof during an ice storm, open the passenger door and sit down
-before his hair gets too wet. This is damn near impossible. So Bob takes his
-agility 5 and because he's skilled level 2 in acrobatics his total bonus is 5
-+ 2 = 7. To succeed Bob has to roll a 20 (that maneuver sounds like its damn
-near impossible, game master determines difficulties) or higher to make the
-target number of 30 (20 always succeeds unless the action is Crack-Trip. Bob
-decides this is just too tough, so instead he decides to just leap on top of
-the car (that's still average target number of 18) so the roll necessary is now an
-11 (5 + 2 + d20 target number 18) or better. Suppose Bob was level 4 in
-acrobatics, this has a strong effect on his odds of making the leap now the
-total is 5 agility + 4 skill + d20 so he'd only need to roll a 9 to make it.
-If Bob werent skilled in acrobatics at all he'd need to roll a 15 (5 agility -
-2 unskilled penalty + d20 target # 18).
-
-Target #'s requiring a roll of higher than 20 are possible. As an example,
-suppose Bob Rica wanted to pull off his belt, swing it around the back of the
-car, and water ski on the icy road behind the car after leaping from the bus.
-The difficulty level would be Crack-Trip (34) so in order to even attempt it,
-Bob would have to have skill level 10 in one of the appropriate skills. In
-addition if Bob weren't skilled in both rope use and acrobatics (close to
-skiing) hed incur an additional 2 penalty.
-
-Let's say Bob doesn't have rope use, but has acrobatica (a good catch all
-fancy maneuver skill) and with his 5 agility and 10 skill he'd need a roll of
-20 (5 + 10 + d20 - 2 unskilled, target # 34), which is a 21 or better on a d20
-roll which is impossible, but remember a roll of 20 allows an additional d20
-roll, which is added to the original (this extra die roll can be earned only
-once). Very powerful investigators can do this sort of thing routinely due to
-expert training and adventuring.
-
-##   Combat
-
-Combat is fast and vicious in the Victus Game system. Rounds are 1 second
-long, which means that most battles are over in 3 to 5 seconds; it doesnt take
-that long to have a sword thrust through you.
-
-An action is either a movement or attack (so if you want to move and attack it
-requires 2 actions).
-
-Characters can use all of their actions in a round. The number of actions that
-a character can take is determined by the characters AGI, dividing it by 4,
-and rounding down. A character takes all of his actions on his initiative,
-which is determined by rolling a d20 and adding it to a characters THT.
-Alternatively they may hold one action as an interrupt triggered by another
-event, “I blaze away with my harpoon gun at the first target through the
-door”. Or they may delay all their actions until after an event happens, “I
-delay my initiative until the first guy comes into the room”.
-
-###   Attacking
-
-An attack succeeds if the attackers HIT value is equal to or greater than the
-opposing characters TARGET value (which can be determined by their EVADE or
-PARRY value, depending on what they choose to do). The HIT value is determined
+An attack succeeds if the attackers HIT value is equal to or greater than the opposing characters TARGET value (which can be determined by their EVADE or PARRY value, depending on what they choose to do). The HIT value is determined
 by:
 
 Agi + SKL + d20
 
 SKL refers to the Skill level (usually melee or missile, in the case of
-combat). If the character doesnt have an appropriate skill, then they have a
-penalty of 2 to the roll (giving them Agi + d20 - 2). If a character isnt
-caught unawares, and tries to dodge the enemys attack, their EVADE value is
-what determines the target difficulty number for the attack. The EVADE value
-of the target is determined by the following:
+combat). If the character doesnt have an appropriate skill, then they have a penalty of 2 to the roll (giving them Agi + d20 - 2). If a character isnt caught unawares, and tries to dodge the enemys attack, their EVADE value is what determines the target difficulty number for the attack. The EVADE value of the target is determined by the following:
 
 Agi + SKL + 11
 
-In this particular case, the SKL level used would be based on the Acrobatica
-skill. If the character is trying to parry (which can only be done against a
-melee attack), the skill is Melee. Finally shields (like a buckler), some
-items, and skill masteries add a Deflection bonus that is added to both parry
-and evade (defends against both melee and missile).
+In this particular case, the SKL level used would be based on the Acrobatica skill. If the character is trying to parry (which can only be done against a melee attack), the skill is Melee. Finally shields (like a buckler), some items, and skill masteries add a Deflection bonus that is added to both parry and evade (defends against both melee and missile).
 
 For vehicle combat the attack SKL is usually Weapon Systems for larger
-weapons, small (Heavy Rifles or lighter) turret mounted weapons may be fired
-using Missile skill. The defense SKL is the appropriate piloting skill. Note
-that the attack totals (Agi + SKL = HIT) and the defense bonus (Agi + SKL) are
-limited by the vehicle agility. The max evade is equal to 11 + vehicle agility
-(certain masteries can go beyond this limit). So for a vehicle with an 8
-vehicle agility, the best evade possible is an 11 + 8 = 19, and the best
-attack bonus with any hull mounted weapons on this vehicle is +8. Turret
-mounted weapon systems are only limited by the skill and agility of the
-gunnery but take up double the space. Note that the upper limit on vehicle
-agility is around 28. Take a (10 base + 4 mastery) x 2 = 28. Characters with
-skills and abilities that surpass these levels find themselves hampered by
-technology.
+weapons, small (Heavy Rifles or lighter) turret mounted weapons may be fired using Missile skill. The defense SKL is the appropriate piloting skill. Note that the attack totals (Agi + SKL = HIT) and the defense bonus (Agi + SKL) are limited by the vehicle agility. The max evade is equal to 11 + vehicle agility (certain masteries can go beyond this limit).
 
-If the target is surprised, then the TARGET number is the default base of 11.
-Remember a roll of a 1 is an automatic miss/failure. Only one surprise attack
-is made (not all of the characters actions), then initiative and normal combat
-rules/evades apply. If the HIT number is greater than or equal to the TARGET
-number, a hit is scored. If the HIT number exceeds the TARGET number by two or
-more, a SUCCESS is gained for every 2 points (rounded down) the TARGET number
-is exceeded by. Damage from a successful attack is determined by the
-following:
+So for a vehicle with an 8 vehicle agility, the best evade possible is an 11 + 8 = 19, and the best attack bonus with any hull mounted weapons on this vehicle is +8. Turret mounted weapon systems are only limited by the skill and agility of the gunnery but take up double the space. Note that the upper limit on vehicle agility is around 28. Take a (10 base + 4 mastery) x 2 = 28. 
+
+Characters with skills and abilities that surpass these levels find themselves hampered by technology.
+
+If the target is surprised, then the TARGET number is the default base of 11. Remember a roll of a 1 is an automatic miss/failure. Only one surprise attack is made (not all of the characters actions), then initiative and normal combat rules/evades apply. If the HIT number is greater than or equal to the TARGET number, a hit is scored. If the HIT number exceeds the TARGET number by two or more, a SUCCESS is gained for every 2 points (rounded down) the TARGET number is exceeded by. Damage from a successful attack is determined by the following:
 
 Base Damage + # Successes DRtarget
 
-The Base Damage for melee or thrown weapons is Strattacker + weapon bonus. The
-Base Damage for other weapons is listed in the weapons table in the equipment
-section. The maximum damage any attack may do is the base times two. For
-example a powerful human with Str = 5 wielding a Two-Handed plasma sword
-(Str+8 damage) has a base damage of 13, and a maximum damage of 26. Damage can
-be absorbed by DR (which stands for Damage Resistance). Every character gets a
-base DR determined by their DUR/3 (rounded down). This is their bodies DR and
-is applied to all physical attacks (note that mental attacks like influence
-use the Will stat to determine DR much like Durability is used to calculate DR
-for physical attacks). In addition to the bodies DR, characters may have
+The Base Damage for melee or thrown weapons is Strattacker + weapon bonus. The Base Damage for other weapons is listed in the weapons table in the equipment section. The maximum damage any attack may do is the base times two. For example a powerful human with Str = 5 wielding a Two-Handed plasma sword (Str+8 damage) has a base damage of 13, and a maximum damage of 26. Damage can be absorbed by DR (which stands for Damage Resistance). Every character gets a base DR determined by their DUR/3 (rounded down). This is their bodies DR and is applied to all physical attacks (note that mental attacks like influence use the Will stat to determine DR much like Durability is used to calculate DR for physical attacks). In addition to the bodies DR, characters may have
 additional DR from armor or powers.
 
-A critical hit is scored if the attacker rolls a 20. The attacker may roll
-another d20 and add that to their to hit roll (there bye increasing their number of
-successes and damage done, but they are still limited to 2XbaseDamage
-maximum). This attack is considered an automatic hit and always causes at
-least 1 point of damage per weapon past any DR the target has (although rapid
-fire weapons can be fired full auto for d6 attacks in lieu of normal actions,
-the minimum damage from a critical hit from such a burst is still only 1 point
-NOT d6 points, although for a battery of 4 of such weaopns it'd be 4 points of
+A critical hit is scored if the attacker rolls a 20. The attacker may roll another d20 and add that to their to hit roll (there bye increasing their number of successes and damage done, but they are still limited to 2 X baseDamage maximum). This attack is considered an automatic hit and always causes at least 1 point of damage per weapon past any DR the target has (although rapid fire weapons can be fired full auto for d6 attacks in lieu of normal actions, the minimum damage from a critical hit from such a burst is still only 1 point NOT d6 points, although for a battery of 4 of such weaopns it'd be 4 points of
 damage).
 
-Underwater or foriegn environment gives attackers a -4 to hit roll, and -4 to
-base damage.
+Underwater or foriegn environment gives attackers a -4 to hit roll, and -4 to base damage.
 
-###   DR Damage Resistance
+###DR Damage Resistance
 
-Damage can be absorbed by DR (which stands for Damage Resistance). Characters
-may have DR to two types of damage in MDG, Physical and Mental.
+Damage can be absorbed by DR (which stands for Damage Resistance). Characters may have DR to two types of damage in MDG, Physical and Mental.
 
-Almost all equipement give Armor or DR apply their DR to Physical attacks that
-cause damage. Mental DR is usually WIL based.
+Almost all equipement give Armor or DR apply their DR to Physical attacks that cause damage. Mental DR is usually WIL based.
 
-Every character gets a base DR determined by their appropriate Attribute/3
-(rounded down). This is their base DR and is applied to all attacks. Physical
-attacks use Durability to calculate this base number, mental attacks use the
-Will stat to determine DR. In addition to the base DR, characters may have
-additional DR from other areas (skin, armor, field, etc.). Unless otherwise
-noted, skin DR stacks, while armor and any other DR does not.
+Every character gets a base DR determined by their appropriate Attribute/3 (rounded down). This is their base DR and is applied to all attacks. Physical attacks use Durability to calculate this base number, mental attacks use the Will stat to determine DR. In addition to the base DR, characters may have additional DR from other areas (skin, armor, field, etc.). Unless otherwise noted, skin DR stacks, while armor and any other DR does not.
 
 Drowning or suffocation damage is d6 per round bypassing all DR. Falling
 damage is 1 point per 10ft fallen, maximized at 20 points for terminal
 velocity.
 
-###   Effects of Damage
+###Effects of Damage
 
 When a character is damaged to 0 hit points or lower they are normally
-unconscious. When a character is damaged past their negative Durability they
-are normally dead (i.e. if a target had a 4 Durability is is damaged to -5 HP
-or lower, they are dead). Certain powers may modify these levels.
+unconscious. When a character is damaged past their negative Durability they are normally dead (i.e. if a target had a 4 Durability is is damaged to -5 HP or lower, they are dead). Certain powers may modify these levels.
 
-When a Vehicle or Automaton (Robot) is damaged to 0 hit points or lower they
-are made inoperable and lose functionality. When the Vehicle or Automaton is
-damaged past it's maximum hitpoints it is utterly annhilated (i.e. if a Robot
-with 24 maximum hit points is damaged to -25HP or lower it is annhilated,
-simple repair won't work it'll need to be rebuilt from scratch).
+When a Vehicle or Automaton (Robot) is damaged to 0 hit points or lower they are made inoperable and lose functionality. When the Vehicle or Automaton is damaged past it's maximum hitpoints it is utterly annhilated (i.e. if a Robot with 24 maximum hit points is damaged to -25HP or lower it is annhilated, simple repair won't work it'll need to be rebuilt from scratch).
 
-###   Grapple Rules
+###Grapple Rules
 
-An attacker can attempt to grapple a single opponent effectively grabbing them
-and holding them in place. With a single action first roll to hit the target,
-if successful now roll an opposed strength check d20 + Attackers Effective
-Strength vs. Targets Effective Strength + 11. Vehicles that dont have strength
-can be locked down as well. Effective strength for personal jet packs is 10,
-effective strength for standard cars is 14, and effective strength for a tank
-is 20. If the roll succeeds the object or being is grappled and has their
-evade reduced to the minimum of 11, in addition they may only make restricted
-movements giving them a 10 modifier to attacks/skill checks. The grapple
-continues until the target successfully breaks free (they can attempt to break
-free once per action without the 10 penalty), the grappler must use all their
-actions to hold the grapple. After the grapple has been successfully applied
-the grappler may squeeze the target once per round for double their strength
-in damage.
+An attacker can attempt to grapple a single opponent effectively grabbing them and holding them in place. With a single action first roll to hit the target, if successful now roll an opposed strength check d20 + Attackers Effective Strength vs. Targets Effective Strength + 11. 
 
-###   Example of combat
+Vehicles that dont have strength can be locked down as well. Effective strength for personal jet packs is 10, effective strength for standard cars is 14, and effective strength for a tank is 20. If the roll succeeds the object or being is grappled and has their evade reduced to the minimum of 11, in addition they may only make restricted movements giving them a 10 modifier to attacks/skill checks. 
 
-Lets say a gunner with AGI 8 and Missile 6 is firing from a turret ( unlike
-hull mounted weapons no upper bounds on accuracy ) with 4 Heavy .50 calibur
-machine guns at an enemy ship. The gunners total bonus to hit is +16 (14+2 for
-rapid fire). His target is a an enemy ship with vehicle agility 7 (so its max
-evade is 11+7=18) with a pilot who has AGI 8 and Pilot Starship 6,
-overshadowing the max ship's defense at 11+7 = 18 evade. Lets say the gunner
-rolls a 20 and then on the additional d20 roll gets another 20 (no additional
-rolls are gained after the initial critical). His total to hit score is 16+40
-= 56. Since the gunner scored great than or equal to 25 a hit has been scored.
-In fact the score (56-25=30)/2 successes or 15 successes. The maximum damage
-that a Heavy .50 calibur machine gun can inflict is 2*Base of 14 = 28. If 14
-successes or more are achieved on the attack roll, then the maximum damage
-capacity of the Heavy .50 calibur machine gun is reached (any additional
-successes wouldnt add anything). The enemy ship is a Cruiser with 16 DR. Since
-there are 4 Heavy .50 calibur machine gun in this battery the gunner rolls a
-d6 for each Heavy .50 calibur machine gun or 4d6 to see how many of the rapid
-fire shots hit and gets a 12. The damage the Cruiser takes is 28-16 = 12
-damage per shot so the total damage from the battery is 144. Since this
-Cruiser only has 60HP it has been sunk. Now if the target was a fortified
-10foot steel wall with greater DR (28 DR) the Heavy .50 calibur machine gun
-couldn't normally pierce its defense (the maximum damage capacity of 2*14=28
-is less than or equal to 28 total DR). But when a critical hit is scored at
-least 1 point is done per weapon so only four damage (the number of Heavy Rifles in
-a battery) would have been done. This damage can still add up but doesn't put
-the steel wall in immediate jeoporady.
+The grapple continues until the target successfully breaks free (they can attempt to break free once per action without the 10 penalty), the grappler must use all their actions to hold the grapple. After the grapple has been successfully applied the grappler may squeeze the target once per round for double their strength in damage.
 
-###   Computer Combat
+###Example of combat
 
-Handle computer combat as follows. Base Initiative is the d6 + THT (the melee
-mastery QuickDraw and the missile mastery Quick Shot dont apply to computer
-combat). The characters thought is used for initiative, and acts as agility in
-that it determines number of attacks and the to hit roll. The will of the
-hacker acts as both strength and durability in cyberspace (which acts as the
-damage of his attacks and provides damage resistance (WIL/3 rounded down) and
-hit points). In hacking combat the number of hit points a hacker has is equal to
-their (1 + comp ops skill level/2 (rnd down)) * WIL. The hackers computer
-skill adds to his offensive rolls and raise his hacking evade.
+Lets say a gunner with AGI 8 and Missile 6 is firing from a turret ( unlike hull mounted weapons no upper bounds on accuracy ) with 4 Heavy .50 calibur machine guns at an enemy ship. The gunners total bonus to hit is +16 (14+2 for rapid fire). 
+
+His target is a an enemy ship with vehicle agility 7 (so its max evade is 11+7=18) with a pilot who has AGI 8 and Pilot Starship 6,
+overshadowing the max ship's defense at 11+7 = 18 evade. Lets say the gunner rolls a 20 and then on the additional d20 roll gets another 20 (no additional rolls are gained after the initial critical). His total to hit score is 16+40 = 56. Since the gunner scored great than or equal to 25 a hit has been scored.
+
+In fact the score (56-25=30)/2 successes or 15 successes. The maximum damage that a Heavy .50 calibur machine gun can inflict is 2*Base of 14 = 28. If 14 successes or more are achieved on the attack roll, then the maximum damage capacity of the Heavy .50 calibur machine gun is reached (any additional successes wouldnt add anything). The enemy ship is a Cruiser with 16 DR. 
+
+Since there are 4 Heavy .50 calibur machine gun in this battery the gunner rolls a d6 for each Heavy .50 calibur machine gun or 4d6 to see how many of the rapid fire shots hit and gets a 12. The damage the Cruiser takes is 28-16 = 12 damage per shot so the total damage from the battery is 144. Since this Cruiser only has 60HP it has been sunk. Now if the target was a fortified 10 foot steel wall with greater DR (28 DR) the Heavy .50 calibur machine gun couldn't normally pierce its defense (the maximum damage capacity of 2*14=28 is less than or equal to 28 total DR). But when a critical hit is scored at least 1 point is done per weapon so only four damage (the number of Heavy Rifles in
+a battery) would have been done. This damage can still add up but doesn't put the steel wall in immediate jeoporady.
+
+###Computer Combat
+
+Handle computer combat as follows. Base Initiative is the d6 + THT (the melee mastery QuickDraw and the missile mastery Quick Shot dont apply to computer combat). The characters thought is used for initiative, and acts as agility in that it determines number of attacks and the to hit roll. The will of the hacker acts as both strength and durability in cyberspace (which acts as the damage of his attacks and provides damage resistance (WIL/3 rounded down) and hit points). In hacking combat the number of hit points a hacker has is equal to their (1 + comp ops skill level/2 (rnd down)) * WIL. The hackers computer skill adds to his offensive rolls and raise his hacking evade.
 
 The To HIT roll is:
 
@@ -1183,120 +664,59 @@ THT + Comp Systems + 11
 
 Damage for each attack is:
 
-Base Damage + # Successes - DRtarget
+Base Damage + # Successes - target DR
 
 To develop a security system, give it a thought and a will and skill level.
-For instance, a prestigious bank might have a security system with 10 thought
-and will along with 10 Computer Systems skill. Treat the thought as agility
-for number of attacks and attack rolls and will as strength and durability. If the
-security system is defeated (reduced to zero hacking hit points) the hacker
-has broken in and may make changes to the system (successful computer skill
-checks with difficulty equal to computers thought + 11 to avoid system
-users/the A.I. noticing the changes). If the hacker is defeated (his hacking
-hit points have been reduced to zero) he has failed to penetrate the system
-defenses and he has been identified as trying to break in the system, his
-system entry point has also been identified. Good banks will have systems with
-stats and skill of 10 or 12. Military systems tend to have stats and skills of
+For instance, a prestigious bank might have a security system with 10 thought and will along with 10 Computer Systems skill. Treat the thought as agility for number of attacks and attack rolls and will as strength and durability. If the security system is defeated (reduced to zero hacking hit points) the hacker has broken in and may make changes to the system (successful computer skill checks with difficulty equal to computers thought + 11 to avoid system users/the A.I. noticing the changes). If the hacker is defeated (his hacking hit points have been reduced to zero) he has failed to penetrate the system defenses and he has been identified as trying to break in the system, his system entry point has also been identified. Good banks will have systems with stats and skill of 10 or 12. Military systems tend to have stats and skills of
 14+.
 
-###   Combat Movement
+###Combat Movement
 
-A target can move its normal jog move (agility) in yards/second. Sprinting
-(1.5x normal movement) can only be done for 5xDUR in seconds; jogging can be
-done for 5XDUR in minutes (although the running skill can extend this time).
-Walking speed is half agility and can be maintained indefinitely. During
-comat, a character can move at his normal movement speed at the cost of one
-action (either walking, jogging or sprinting).
+A target can move its normal jog move (agility) in yards/second. Sprinting (1.5x normal movement) can only be done for 5xDUR in seconds; jogging can be done for 5xDUR in minutes (although the running skill can extend this time). 
 
-Movement occurs in initiative order unless the initiative winner forces his
-opponents to move first (usually a good idea unless your racing for a doorway
-etc.) and occurs before attacks.
+Walking speed is half agility and can be maintained indefinitely. During comat, a character can move at his normal movement speed at the cost of one action (either walking, jogging or sprinting).
 
-###   optional hit locations
+Movement occurs in initiative order unless the initiative winner forces his opponents to move first (usually a good idea unless your racing for a doorway etc.) and occurs before attacks.
+
+###optional hit locations
 
 Hit Location Table
 
-Roll a d6: Roll Area Hit Special Penalty 1 Left Leg. -2 to evade 2 Right Leg
--2 to evade 3 Left Arm -2 to hit 4 Right Arm -2 to hit 5 Torso
+| Roll | Area Hit | Special Penalty |
+|------|----------|-----------------|
+| 1    | Left Leg | -2 to evade     |
+| 2    | Right Leg| -2 to evade     |
+| 3    | Left Arm | -2 to hit       |
+| 4    | Right Arm| -2 to hit       |
+| 5    | Torso    |                 |
+| 6    | Head     | +1 to damage    |
 
-6 Head +1 to damage
+#Equipment
 
-#   Equipment
+Often times Masterwork quality equipment isn't available (connections can be used to make them automatically available to an investigator team for a session), but if they are the cost is 100 times the base price. General masterwork armor gives +2DR, masterwork shields give +1 deflection, and masterwork weapons give a +2 bonus to hit and overall these items look really freaking sweet. 
 
-Often times Masterwork quality equipment isn't available (connections can be
-used to make them automatically available to an investigator team for a
-session), but if they are the cost is 100 times the base price. General
-masterwork armor gives +2DR, masterwork shields give +1 deflection, and
-masterwork weapons give a +2 bonus to hit and overall these items look really
-freaking sweet. Vehicles generally have a HP rating. When a vehicle is reduced
-to zero hitpoints it is no longer functional. When HP are reduced past the
-negative starting HP of a vehicle it is completely annhilated.
+Vehicles generally have a HP rating. When a vehicle is reduced to zero hitpoints it is no longer functional. When HP are reduced past the negative starting HP of a vehicle it is completely annhilated.
 
-##   Miscellaneous
+##Miscellaneous
 
- add little stuff, bad ass sunglasses, infared goggles, xray proof briefcase,
-survival gear, adrenalin shots (d6 healing)
+todo : add little stuff, bad ass sunglasses, infared goggles, xray proof briefcase, survival gear, adrenalin shots (d6 healing)
 
-##   Armor
+##Armor
 
 The only required skill for creating body armor is Modern Armor Crafting.
 
-Armor
-
-Type
-
-Armor DR
-
-Examples
-
-Cost
-
-Construction Difficulty
-
-Time
-
-Light
-
-2
-
-(Hard leather coat with reinforcement)
-
-$500
-
-14
-
-4 days
-
-Medium
-
-4
-
-(Kevlar vest, Armored Jacket)
-
-$1000
-
-17
-
-1 week
-
-Heavy
-
-6
-
-(Full body armor suit)
-
-$15,000
-
-20
-
-4 weeks
+| Armor Type | Armor DR | Examples                               | Cost   | Construction Difficulty | Time   |
+|------------|----------|----------------------------------------|--------|-------------------------|--------|
+| Light      | 2        | Hard leather coat with reinforcement   | $500   | 14                      | 4 days |
+| Medium     | 4        | Kevlar vest, Armored Jacket            | $1000  | 17                      | 1 week |
+| Heavy      | 6        | Full body armor suit                   | $15,000| 20                      | 4 weeks|
 
 Stealth suits have Heavy Armor DR but at the weight and convenience of light
 body armor (see the Modern Armor Crafting, Stealthsuit mastery for details).
 
 Riot Shield: +2 deflection (bonus to parry or evade) ($500)
 
-##   Weapons Rules
+##Weapons Rules
 
 Crafting all types of weapons takes Mechanical Engineering. In addition
 amunition and bombs require Chemistry. Laser technology and nuclear devices
@@ -1314,331 +734,27 @@ Construction time for Rifles and Heavy rifles is equal to pistol construction
 time. Cannons require 2X the time, and are +4 difficulty. Tech Level is either
 Standard(S), Laser Technology(L), Ultra-Rare Government Issue(U).
 
-Weapon
-
-Damage
-
-Ammunition
-
-Cost
-
-Tech Level Required
-
-Difficulty to Construct
-
-Mass(loaded)
-
-Effective Range
-
-Construction Time
-
-.22 Pistol
-
-5
-
-15 bullet
-
-150
-
-S
-
-15
-
-2lbs
-
-100 yards
-
-2 days
-
-Derringer
-
-6
-
-2 bullets
-
-200
-
-S
-
-15
-
-2lbs
-
-100 yards
-
-2 days
-
-.38 Revolver
-
-6
-
-6 bullets
-
-350
-
-S
-
-15
-
-3lbs
-
-100 yards
-
-2 days
-
-9mm semi-automatic
-
-7
-
-10 bullets
-
-400
-
-S
-
-17
-
-3lbs
-
-100 yards
-
-4 days
-
-.45 Semi-Automatic Damage
-
-8
-
-9 bullets
-
-500
-
-S
-
-17
-
-4lbs
-
-100 yards
-
-4 days
-
-.50 Magnum/Automag/Desert Eagle
-
-10
-
-7 bullets
-
-1000
-
-S
-
-17
-
-6lbs
-
-100 yards
-
-4 days
-
-Laser Pistol
-
-12
-
-25 beams
-
-200,000
-
-L
-
-20
-
-2lbs
-
-500 yards
-
-4 days
-
-Shotgun
-
-8
-
-20 blasts
-
-200
-
-S
-
-15
-
-7lbs
-
-30 yards
-
-4 days
-
-One-Handed Melee Weapon
-
-Str+2
-
--
-
-150
-
-S
-
-17
-
-4lbs
-
-1 yard
-
-1 day
-
-Two-Handed Melee Weapon
-
-Str+4
-
--
-
-250
-
-S
-
-19
-
-8lbs
-
-1 yard
-
-1 day
-
-Small Weapon (knife)
-
-Str+1
-
--
-
-40
-
-S
-
-16
-
-1lb
-
-1 yard (10+Str yards thrown)
-
-4 hours
-
-Punch/Kick
-
-Str (stun damage)
-
--
-
--
-
--
-
--
-
--
-
-1 yard
-
--
-
-Laser Weapon (melee)
-
-Base+2
-
-Battery:1hr, minimum 10min
-
-200,000
-
-L
-
-20
-
-same as weapon
-
-1 yard
-
-2 days
-
-Concussive Grenade
-
-10
-
-1 per
-
-50
-
-S
-
-20
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-1 day
-
-Photon Grenade
-
-12
-
-1 per
-
-1000
-
-L
-
-22
-
-2lbs
-
-10+Str yards thrown (5 yard radius)
-
-2 days
-
-Tactical Nuclear Explosive
-
-30
-
-1 per
-
-10million
-
-U
-
-28
-
-50lbs
-
-Dependend on launcher (200 yard radius)
-
-4 weeks
-
-Full Nuclear Blast
-
-40
-
-1 per
-
-100million
-
-U
-
-28
-
-500lbs
-
-Dependend on launcher (2000 yard radius)
-
-16 weeks
-
-##   Vehicles
+| Weapon                      | Damage | Ammunition                  | Cost      | Tech Level Required | Difficulty to Construct | Mass(loaded) | Effective Range                | Construction Time |
+|-----------------------------|--------|-----------------------------|-----------|---------------------|-------------------------|--------------|--------------------------------|------------------|
+| .22 Pistol                  | 5      | 15 bullet                   | 150       | S                   | 15                      | 2lbs         | 100 yards                      | 2 days           |
+| Derringer                   | 6      | 2 bullets                   | 200       | S                   | 15                      | 2lbs         | 100 yards                      | 2 days           |
+| .38 Revolver                | 6      | 6 bullets                   | 350       | S                   | 15                      | 3lbs         | 100 yards                      | 2 days           |
+| 9mm semi-automatic          | 7      | 10 bullets                  | 400       | S                   | 17                      | 3lbs         | 100 yards                      | 4 days           |
+| .45 Semi-Automatic Damage   | 8      | 9 bullets                   | 500       | S                   | 17                      | 4lbs         | 100 yards                      | 4 days           |
+| .50 Magnum/Automag/Desert Eagle | 10 | 7 bullets                   | 1000      | S                   | 17                      | 6lbs         | 100 yards                      | 4 days           |
+| Laser Pistol                | 12     | 25 beams                    | 200,000   | L                   | 20                      | 2lbs         | 500 yards                      | 4 days           |
+| Shotgun                     | 8      | 20 blasts                   | 200       | S                   | 15                      | 7lbs         | 30 yards                       | 4 days           |
+| One-Handed Melee Weapon     | Str+2  | -                           | 150       | S                   | 17                      | 4lbs         | 1 yard                         | 1 day            |
+| Two-Handed Melee Weapon     | Str+4  | -                           | 250       | S                   | 19                      | 8lbs         | 1 yard                         | 1 day            |
+| Small Weapon (knife)        | Str+1  | -                           | 40        | S                   | 16                      | 1lb          | 1 yard (10+Str yards thrown)   | 4 hours          |
+| Punch/Kick                  | Str (stun damage) | -                 | -         | -                   | -                       | -            | 1 yard                         | -                |
+| Laser Weapon (melee)        | Base+2 | Battery:1hr, minimum 10min  | 200,000   | L                   | 20                      | same as weapon| 1 yard                        | 2 days           |
+| Concussive Grenade          | 10     | 1 per                       | 50        | S                   | 20                      | 2lbs         | 10+Str yards thrown (5 yard radius) | 1 day        |
+| Photon Grenade              | 12     | 1 per                       | 1000      | L                   | 22                      | 2lbs         | 10+Str yards thrown (5 yard radius) | 2 days        |
+| Tactical Nuclear Explosive  | 30     | 1 per                       | 10million | U                   | 28                      | 50lbs        | Dependend on launcher (200 yard radius) | 4 weeks     |
+| Full Nuclear Blast          | 40     | 1 per                       | 100million| U                   | 28                      | 500lbs       | Dependend on launcher (2000 yard radius)| 16 weeks    |
+
+##Vehicles
 
 Vehicles have a maximum evasion capability based on their design. The max
 evade is equal to 11 + vehicle agility. So for a vehicle with a 8-vehicle
@@ -1652,480 +768,23 @@ starting vehicle agility (most vehicles have a base vehicle agility of 8 with
 a max vehicle agility of 16). Note that each level of shields lowers the
 agility by 1, but doesn't affect the maximum agility possible.
 
-Tank: vehicle agility: 6. Single Cannon depending on tank type (some may even
-have missiles) and a heavy rifle usually of the same type, which is attached
-to the top for anti-personnel. Both weapons are aimed internally by one pilot
-and 2 gunners, but a single pilot may also man both guns. Max Speed is 3
-yards/sec per vehicle agility point.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-4million
-
-DR
-
-16
-
-HP
-
-16
-
-Weight
-
-40tons
-
-Vehicle Agility
-
-6
-
-Time
-
-2 months
-
-Difficulty
-
-19
-
-Tech Level
-
-Rare Military Grade
-
-Standard Sedan: 5 DR, 12 hit points, vehicle agility:8. Speed is 5 yards/sec
-per vehicle agility point. Dam: 10+ (Ramming). This is a standard 4 door car.
-Variations on speed, carrying capacity, AWD/4WD, and even armor and weapons
-exist.
-
-Required Skills
-
-Power Systems (PS), Mechanical Engineering(ME), Electrical Engineering
-(EE),Computers
-
-Cost
-
-20,000
-
-DR
-
-5
-
-HP
-
-12
-
-Weight
-
-2,000lbs
-
-Vehicle Agility
-
-8
-
-Time
-
-1 month
-
-Difficulty
-
-16
-
-Tech Level
-
-Standard
-
-Motorcycle: 2 DR, 8 hit points, vehicle agility:10. Speed is 5 yards/sec per
-vehicle agility point. Dam: 6+ (Ramming). This is a standard motorcycle.
-Variations on speed, carrying capacity (sidecar), and even armor and weapons
-exist.
-
-Required Skills
-
-Power Systems (PS), Mechanical Engineering, Computers
-
-Cost
-
-8,000
-
-DR
-
-2
-
-HP
-
-8
-
-Weight
-
-500lbs
-
-Vehicle Agility
-
-10
-
-Time
-
-1 month
-
-Difficulty
-
-16
-
-Tech Level
-
-Standard
-
-Jet Boat Yacht: 5 DR, 16 hit points, vehicle agility:6. Approximately 50ft in
-length this speed based yacht is the ultimate in water travelling luxury if
-you're in a hurry. Speed is 5 yards/sec per vehicle agility point. Dam: 10+
-(Ramming). This is a standard cigarette boat/yacht. Variations on speed,
-carrying capacity, and even armor and weapons exist.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Mechanical Engineering (ME),
-and Computer Systems (CS)
-
-Cost
-
-800,000
-
-DR
-
-5
-
-HP
-
-16
-
-Weight
-
-13,000lbs
-
-Vehicle Agility
-
-6
-
-Time
-
-2 months
-
-Difficulty
-
-16
-
-Tech Level
-
-Standard
-
-Landing Craft Air Cushion (LCAC): 8 DR, 24 hit points, vehicle agility:6.
-Speed is 3 yards/sec per vehicle agility point. Dam: 14+ (Ramming). This is a
-81ft long amphibious landing craft designed to carry and drop off up to 75
-tons worth of equipment. Standard version includes 2 heavy machine guns (use
-.50 calibur for stats). Variations on speed, carrying capacity, and even armor
-and weapons exist.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-11million
-
-DR
-
-8
-
-HP
-
-24
-
-Weight
-
-100 tons
-
-Vehicle Agility
-
-6
-
-Time
-
-8 months
-
-Difficulty
-
-20
-
-Tech Level
-
-Rare Military Grade (Skill req: 6
-
-Wasp Class, amphibious assault ships: 14 DR, 60 hit points, vehicle agility:5.
-Speed is 2 yards/sec per vehicle agility point. Dam: 20+ (Ramming). This is an
-844 foot long amphibious landing craft used by the US Navy. Variations on
-speed, carrying capacity, and even armor and weapons exist. Standard armament:
-Two RAM launchers; two NATO Sea Sparrow launchers; three 20 mm Phalanx CIWS
-mounts (two on LHD 5-7); four .50 cal. machine guns; four 25 mm Mk 38 machine
-guns (LHD 5-7 have three 25 mm Mk 38 machine guns).
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-822million
-
-DR
-
-14
-
-HP
-
-60
-
-Weight
-
-20,000 tons
-
-Vehicle Agility
-
-5
-
-Time
-
-24 months
-
-Difficulty
-
-22
-
-Tech Level
-
-Rare Military Grade (Skill req: 8)
-
-Helicopter: 3 DR, 10 hit points, vehicle agility:8. Speed is 10 yards/sec per
-vehicle agility point. This is a standard passenger helicoptor. Variations on
-speed, carrying capacity, and even armor and weapons exist.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-2million
-
-DR
-
-3
-
-HP
-
-10
-
-Weight
-
-2,000lbs
-
-Vehicle Agility
-
-8
-
-Time
-
-1 month
-
-Difficulty
-
-16
-
-Tech Level
-
-Standard
-
-Apache Helicopter: 10 DR, 16 hit points, vehicle agility:8. Speed is 10
-yards/sec per vehicle agility point. This is a standard 4 door car. Variations
-on speed, carrying capacity, AWD/4WD, and even armor and weapons exist.
-Armament: Guns M230 30mm automatic cannon, 1200 rds (Dam:14) ; Missiles
-Hellfire/Hellfire II, AIM-92_Stinger, AGM-122 Sidearm, AIM-9_Sidewinder (Dam:
-18 heat seeking, to hit bonus: +16); Rockets Hydra 70, FFAR (Dam:14, use
-missile skill)
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-60million
-
-DR
-
-10
-
-HP
-
-16
-
-Weight
-
-2,000lbs
-
-Vehicle Agility
-
-8
-
-Time
-
-2 months
-
-Difficulty
-
-16
-
-Tech Level
-
-Rare Military Grade (Skill req: 8)
-
-Private Jet: 4 DR, 16 hit points, vehicle agility:8. Speed is 50 yards/sec per
-vehicle agility point. This is a standard LearJet. Can carry 8,000lbs worth of
-cargo or passengers. Variations on speed, carrying capacity, and even armor
-and weapons exist.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-12million
-
-DR
-
-4
-
-HP
-
-16
-
-Weight
-
-12,000lbs
-
-Vehicle Agility
-
-8
-
-Time
-
-2 months
-
-Difficulty
-
-20
-
-Tech Level
-
-Standard
-
-Fighter Jet: 6 DR, 16 hit points, vehicle agility:10. Speed is 50 yards/sec
-per vehicle agility point. This is a standard fighter jet. Variations on
-speed, carrying capacity, armor, and weapons exist. Rumors of directed energy
-weapons (laser technology) are associated with these modern day kings of the
-sky.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-40million
-
-DR
-
-6
-
-HP
-
-16
-
-Weight
-
-30,000lbs
-
-Vehicle Agility
-
-9
-
-Time
-
-2 months
-
-Difficulty
-
-22
-
-Tech Level
-
-Rare Military Grade (Skill req: 8)
-
-Jumbo Jet (777) : 6 DR, 24 hit points, vehicle agility:6. Speed is 50
-yards/sec per vehicle agility point. This is a Jumbo Jet they have many
-variations on speed, carrying capacity, armor, and weapons exist. It's maximum
-takeoff cargo weight is 60 tons.
-
-Required Skills
-
-Power Systems (PS), Electrical Engineering (EE), Chemistry (C), Mechanical
-Engineering (ME), and Computer Systems (CS)
-
-Cost
-
-240million
-
-DR
-
-6
-
-HP
-
-24
-
-Weight
-
-150tons
-
-Vehicle Agility
-
-6
-
-Time
-
-2 months
-
-Difficulty
-
-20
-
-Tech Level
-
-Standard
-
-#   Occult/Magic Section
-
-##   Spell Mastery
+| Vehicle | Required Skills | Cost | DR | HP | Weight | Vehicle Agility | Time | Difficulty | Tech Level |
+|---------|-----------------|------|----|----|--------|-----------------|------|------------|------------|
+| Tank | PS, EE, C, ME, CS | 4million | 16 | 16 | 40tons | 6 | 2 months | 19 | Rare Military Grade |
+| Standard Sedan | PS, ME, EE, Computers | 20,000 | 5 | 12 | 2,000lbs | 8 | 1 month | 16 | Standard |
+| Motorcycle | PS, Mechanical Engineering, Computers | 8,000 | 2 | 8 | 500lbs | 10 | 1 month | 16 | Standard |
+| Jet Boat Yacht | PS, EE, ME, CS | 800,000 | 5 | 16 | 13,000lbs | 6 | 2 months | 16 | Standard |
+| Landing Craft Air Cushion (LCAC) | PS, EE, C, ME, CS | 11million | 8 | 24 | 100 tons | 6 | 8 months | 20 | Rare Military Grade (Skill req: 6) |
+| Wasp Class, amphibious assault ships | PS, EE, C, ME, CS | 822million | 14 | 60 | 20,000 tons | 5 | 24 months | 22 | Rare Military Grade (Skill req: 8) |
+| Helicopter | PS, EE, C, ME, CS | 2million | 3 | 10 | 2,000lbs | 8 | 1 month | 16 | Standard |
+| Apache Helicopter | PS, EE, C, ME, CS | 60million | 10 | 16 | 2,000lbs | 8 | 2 months | 16 | Rare Military Grade (Skill req: 8) |
+| Private Jet | PS, EE, C, ME, CS | 12million | 4 | 16 | 12,000lbs | 8 | 2 months | 20 | Standard |
+| Fighter Jet | PS, EE, C, ME, CS | 40million | 6 | 16 | 30,000lbs | 9 | 2 months | 22 | Rare Military Grade (Skill req: 8) |
+| Jumbo Jet (777) | PS, EE, C, ME, CS | 240million | 6 | 24 | 150tons | 6 | 2 months | 20 | Standard |
+
+#Occult/Magic Section
+
+##Spell Mastery
 
 Occultists can, if they so choose, opt to become masters at certain skills. It
 is possible to become far better at a certain spell than the regular caster,
@@ -2136,7 +795,7 @@ choosing to master in Levitation must pay 9XP and in either case would cast
 those spells at their normal skill level + 5 (to determine damage, duration,
 etc.).
 
-##   Spell System
+##Spell System
 
 Characters with the Mystic gift have obtained enough knowledge to be dangerous
 in the area of magic and the occult. You have a number of power points equal
@@ -2198,7 +857,7 @@ LEVEL 10
   * Summon Force: A barely visible spirit like force is summoned by performing this ritual which takes 10 seconds to perform. The force is completely controlled by the mystic which can puppet it's actions within his line of sight. Treat the force as an independent body that can be controlled by the Mystic and has the following stats and abilities: Str:12, Agi:casters Tht, Dur:12, Tht:NA acts on casters initiative,Wil:NA,Pre:NA although it might scare people. The force has the following gifts: Grit lvl 3, Thick Skin, and Sustained, and has a base Armor of 6 (Total DR 12= 4Dur+2Skin+6Armor). In addition it has all the skills of the summoner (as he's puppeting it). Each action of the caster may be his own or he may use the force. The duration of the force is 10 minutes per Occult Lore level.
   * Corporeal Reformation: This mighty spell can best be described by the ritual performed in Conan the Barbarian by the sorceror. As the spirits of the damned come to reclaim the tatoo covered deceased target the caster focuses all their power into bringing them back from the dead. It takes an entire night to cast this ritual. This ritual may be performed with only a small fraction of the original dead body. A new body is created, but may be heavily scarred.
 
-#   Old Stuff
+#Old Stuff
 
 Some standard DR/HP for structures:
 
@@ -2217,7 +876,7 @@ Moon DR 44 REGEN 10 HP/Round HP 400 (gravity)
 Earth Sized Planet DR 60 HP 1000 REGEN 20 HP/Round (gravity, normal geothermal
 activity)
 
-#   Need to start some serious descriptive juice
+#Need to start some serious descriptive juice
 
 here go in detail of pyramids/occult/south
 america/africa/india/tibet/thailand/US/.. go crazy
@@ -2240,12 +899,6 @@ the supernatural.
 
 Government: NSA agents are immune to damage and may only be killed by falling
 glass.
-
-
-
-Logged in as: Mark J. Essel
-
-book_-_mdg.txt · Last modified: 2009/02/15 13:08 by messel
 
 
 
